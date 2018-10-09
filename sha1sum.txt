@@ -1,0 +1,3 @@
+The SHA1 sum of BMP file is:
+
+30a4f480b68bcd4a6f907172cb4cf3450e78ce5b
